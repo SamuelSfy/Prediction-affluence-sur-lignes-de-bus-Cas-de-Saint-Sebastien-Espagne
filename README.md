@@ -6,7 +6,9 @@ Projet tutoré de Machine Learning réalisé dans le cadre de l'année académiq
 
 * **Konan Ella Angèle Mélaine**
 * **Yeo Foungnigue Samuel**
+## 🎯 Encadrants
 
+* [**HUPI**](https://www.hupi.eus/fr/)
 ---
 
 ## 📋 Contexte et Objectif du Projet

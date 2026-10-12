@@ -2,10 +2,6 @@
 
 Projet tutoré de Machine Learning réalisé dans le cadre de l'année académique **2024-2025** à l'**ESTIA Institute of Technology**.
 
-## 👥 Auteurs
-
-* **Konan Ella Angèle Mélaine**
-* **Yeo Foungnigue Samuel**
 ## 🎯 Encadrants
 
 * [**HUPI**](https://www.hupi.eus/fr/)
